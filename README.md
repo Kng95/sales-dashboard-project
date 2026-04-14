@@ -96,7 +96,7 @@ The dataset contains detailed sales transactions with the following fields:
 ---
 
 ## 👤 About the Author
-![**`MUJAHID JABIR`**]((About-Me.md)  
+![**`MUJAHID JABIR`**](About-Me.md)  
 Data Analyst specializing in Excel, data cleaning, KPI development, and dashboard visualization.  
 Passionate about transforming raw data into meaningful insights and building professional analytical solutions.
 
