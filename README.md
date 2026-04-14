@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Images/cover.png" alt="Sales Dashboard Cover" width="100%">
+</p>
 # 📊 Excel Sales Dashboard – Interactive Analytics Project  
 **Created by: MUJAHID JABIR | Data Analyst**
 
