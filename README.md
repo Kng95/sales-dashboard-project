@@ -2,6 +2,13 @@
   <img src="Images/cover.png" alt="Sales Dashboard Cover" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-Dashboard-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-Complete-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Visualization-Excel%20Charts-orange?style=flat-square">
+</p>
+
 # 📊 Sales Dashboard – Interactive Excel Analytics Project
 
 A fully interactive and visually refined **Sales Dashboard** built using Microsoft Excel.  
@@ -65,6 +72,9 @@ The dataset contains detailed sales transactions with the following fields:
 <p align="center">
   <img src="Images/dashboard-preview.png" width="80%">
 </p>
+
+
+
 ---
 
 ## 🛠️ Tools & Techniques Used
@@ -78,6 +88,17 @@ The dataset contains detailed sales transactions with the following fields:
 
 ---
 
+## 🧠 Skills Demonstrated
+- Data Cleaning & Preparation  
+- Business KPI Development  
+- Dashboard Design & Visualization  
+- Analytical Thinking  
+- Data Modeling in Excel  
+- Storytelling with Data  
+- Professional Documentation  
+
+---
+
 ## 📥 How to Use
 1. Download and open the file:  
    ![**`Dashboard.xlsx`**](Dashboard.xlsx)
@@ -87,7 +108,7 @@ The dataset contains detailed sales transactions with the following fields:
    - Product  
    - Customer  
 3. Explore the interactive charts and KPIs  
-4. Refer to the ![**Documentation PDF**](Documentaion/Project-Documentaion.pdf) for a full explanation of the workflow and methodology  
+4. Refer to the ![**Documentation PDF**](Documentaion/Project-Documentaion) for a full explanation of the workflow and methodology  
 
 ---
 
@@ -95,8 +116,16 @@ The dataset contains detailed sales transactions with the following fields:
 
 ---
 
+## 🔮 Future Improvements
+- Add Power BI version of the dashboard  
+- Automate data refresh using Power Query  
+- Add forecasting models (e.g., sales prediction)  
+- Expand dataset with customer segmentation  
+
+---
+
 ## 👤 About the Author
-![**`MUJAHID JABIR`**](About-Me.md)  
+![**MUJAHID JABIR** ](About-Me.md) 
 Data Analyst specializing in Excel, data cleaning, KPI development, and dashboard visualization.  
 Passionate about transforming raw data into meaningful insights and building professional analytical solutions.
 
