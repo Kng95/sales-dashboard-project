@@ -54,8 +54,8 @@ The dataset contains detailed sales transactions with the following fields:
 - **Total Revenue** (calculated)
 
 ### Data Files Included:
-- `raw-data.xlsx` – original dataset  
-- `cleaned-data.xlsx` – cleaned and standardized dataset  
+- ![`raw-data.xlsx`](data/Row_Data.xlsx) – original dataset  
+- ![`cleaned-data.xlsx`](data/Cleaned_Data_Dash.xlsx) – cleaned and standardized dataset  
 - Calculated fields used for KPIs and dashboard visuals  
 
 ---
@@ -63,7 +63,7 @@ The dataset contains detailed sales transactions with the following fields:
 ## 🖼️ Dashboard Screenshots
 
 <p align="center">
-  <img src="Images/dashboard.png" width="80%">
+  <img src="Images/dashboard-preview.png" width="80%">
 </p>
 ---
 
@@ -80,14 +80,14 @@ The dataset contains detailed sales transactions with the following fields:
 
 ## 📥 How to Use
 1. Download and open the file:  
-   ![**`Dashboard.xlsx`**](Documentaion/Project-Documentaion.pdf)
+   ![**`Dashboard.xlsx`**](Dashboard.xlsx)
 2. Use the slicers to filter by:
    - Date  
    - Region  
    - Product  
    - Customer  
 3. Explore the interactive charts and KPIs  
-4. Refer to the **Documentation PDF** for a full explanation of the workflow and methodology  
+4. Refer to the ![**Documentation PDF**](Documentaion/Project-Documentaion.pdf) for a full explanation of the workflow and methodology  
 
 ---
 
