@@ -2,63 +2,61 @@
   <img src="Images/cover.png" alt="Sales Dashboard Cover" width="100%">
 </p>
 
-# 📊 Sales Dashboard – Excel Interactive Project
+# 📊 Sales Dashboard – Interactive Excel Analytics Project
 
-An interactive and visually appealing **Sales Dashboard** built using Microsoft Excel.  
-This project showcases data cleaning, KPI calculation, and dashboard design skills suitable for business analysis and decision‑making.
+A fully interactive and visually refined **Sales Dashboard** built using Microsoft Excel.  
+This project demonstrates strong skills in **data cleaning, KPI development, dashboard design, and business analytics**—making it ideal for portfolio presentation and real‑world decision support.
 
 ---
 
 ## 🚀 Project Overview
-This project provides a complete end‑to‑end analysis of sales data.  
-It includes data cleaning, transformation, KPI generation, and a fully interactive dashboard that allows users to explore sales performance across regions, products, customers, and time periods.
+This project delivers a complete analytical workflow starting from raw sales data all the way to a polished, interactive dashboard.
 
-The dashboard is designed to help businesses quickly understand trends, identify top performers, and make data‑driven decisions.
+The dashboard enables users to:
+- Explore sales performance across regions, products, and customers  
+- Identify trends and patterns  
+- Monitor KPIs in real time  
+- Make informed business decisions based on clean, structured insights  
+
+It is designed with clarity, usability, and professional presentation in mind.
 
 ---
 
 ## ⭐ Key Features
-- Fully interactive Excel dashboard  
-- Dynamic slicers for:
-  - Date  
-  - Region  
-  - Product  
-  - Customer  
-- Professional charts and visuals:
-  - Sales Trend  
-  - Top Products  
-  - Sales by Region  
-  - Discount Analysis  
-- Clean and organized data model  
+- Interactive Excel dashboard with dynamic slicers  
 - Automated KPI calculations  
+- Clean and structured data model  
+- Professional charts and visual storytelling  
+- Region, product, and customer-level insights  
+- Trend analysis and discount impact evaluation  
 
 ---
 
 ## 📈 KPIs Included
 | KPI | Description |
 |-----|-------------|
-| **Total Revenue** | Total sales revenue for the selected period |
+| **Total Revenue** | Total sales revenue across the selected period |
 | **Units Sold** | Total number of units sold |
 | **Average Discount** | Average discount applied across all transactions |
-| **Top Region** | Region with the highest revenue |
+| **Top Region** | Region generating the highest revenue |
 
 ---
 
 ## 🗂️ Dataset Description
-The dataset includes detailed sales records with the following fields:
+The dataset contains detailed sales transactions with the following fields:
 
-- Date  
-- Region  
-- Product  
-- Units Sold  
-- Unit Price  
-- Discount  
-- Total Revenue (calculated)
+- **Date**  
+- **Region**  
+- **Product**  
+- **Units Sold**  
+- **Unit Price**  
+- **Discount**  
+- **Total Revenue** (calculated)
 
-### Data Files:
-- **Raw Data** – original dataset  
-- **Cleaned Data** – processed and standardized dataset  
-- **Calculated Fields** – additional metrics used in the dashboard  
+### Data Files Included:
+- `raw-data.xlsx` – original dataset  
+- `cleaned-data.xlsx` – cleaned and standardized dataset  
+- Calculated fields used for KPIs and dashboard visuals  
 
 ---
 
@@ -71,25 +69,25 @@ The dataset includes detailed sales records with the following fields:
 
 ## 🛠️ Tools & Techniques Used
 - Microsoft Excel  
-- Pivot Tables  
-- Pivot Charts  
-- Slicers  
-- Data Cleaning  
+- Pivot Tables & Pivot Charts  
+- Slicers & Interactive Filters  
+- Data Cleaning & Normalization  
 - Conditional Formatting  
 - KPI Calculation  
+- Visual Dashboard Design  
 
 ---
 
 ## 📥 How to Use
 1. Download and open the file:  
-   **Dashboard.xlsx**
+   ![**`Dashboard.xlsx`**](Documentaion/Project-Documentaion.pdf)
 2. Use the slicers to filter by:
    - Date  
    - Region  
    - Product  
    - Customer  
 3. Explore the interactive charts and KPIs  
-4. Refer to the **Documentation PDF** for a full explanation of the workflow  
+4. Refer to the **Documentation PDF** for a full explanation of the workflow and methodology  
 
 ---
 
