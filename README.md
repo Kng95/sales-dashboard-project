@@ -92,3 +92,16 @@ The dataset contains detailed sales transactions with the following fields:
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 👤 About the Author
+![**`MUJAHID JABIR`**]((About-Me.md)  
+Data Analyst specializing in Excel, data cleaning, KPI development, and dashboard visualization.  
+Passionate about transforming raw data into meaningful insights and building professional analytical solutions.
+
+---
+
+## 📬 Contact
+- GitHub: https://github.com/Kng95  
+- Email: mogahid22@gmail.com
