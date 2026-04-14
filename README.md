@@ -97,7 +97,6 @@ All charts and KPIs update instantly when filters are applied.
 
 ## 🎯 Purpose of the Dashboard  
 This dashboard helps users:
-![Dashboard](Images/dashboard-preview.png)
 - Track monthly sales performance  
 - Identify top‑selling products  
 - Analyze regional distribution  
@@ -107,18 +106,18 @@ This dashboard helps users:
 ---
 
 ## 🖼 Dashboard Preview  
-*(Insert dashboard image here)*
+![Dashboard](Images/dashboard-preview.png)
 
 ---
 
 ## 📄 Documentation  
 Full project documentation is available in:  
-![This link](Documentation/Project-Documentation.pdf)
+![Documentation/Project-Documentation.pdf](Documentation/Project-Documentation.pdf)
 
 ---
 
 ## 👤 About the Analyst  
-See: `About-Me.md`
+See: ![`About-Me.md`](About-Me.md)
 
 ---
 
