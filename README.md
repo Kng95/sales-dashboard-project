@@ -113,7 +113,7 @@ This dashboard helps users:
 
 ## 📄 Documentation  
 Full project documentation is available in:  
-(Documentation/Project-Documentation.pdf)
+![](Documentation/Project-Documentation.pdf)
 
 ---
 
